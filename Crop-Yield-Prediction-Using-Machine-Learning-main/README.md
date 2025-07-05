@@ -38,7 +38,7 @@ This project focuses on building a predictive system for agricultural crop yield
 ## Snapshot
 ![model comperasion](https://github.com/user-attachments/assets/e771c9cd-e2c3-46c0-bf6a-a897753688e6)
 
-![user interface]()
+![user interface](https://github.com/rishirao07/crop-prediction/blob/main/Crop-Yield-Prediction-Using-Machine-Learning-main/assets/execution_video.mp4)
 
 ## Conclusion
 The Decision Tree Regressor and K-Nearest Neighbors showed the most promise in accurately predicting crop yield based on historical data. The project demonstrates the utility of machine learning in agricultural yield prediction, which can assist farmers, policymakers, and agronomists in making informed decisions about crop production.
